@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactNestedRouter/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactNestedRouter/static/js/main.fa111797.chunk.js",
+    "main.js.map": "/ReactNestedRouter/static/js/main.fa111797.chunk.js.map",
+    "runtime-main.js": "/ReactNestedRouter/static/js/runtime-main.e84f38f8.js",
+    "runtime-main.js.map": "/ReactNestedRouter/static/js/runtime-main.e84f38f8.js.map",
+    "static/js/2.cb319127.chunk.js": "/ReactNestedRouter/static/js/2.cb319127.chunk.js",
+    "static/js/2.cb319127.chunk.js.map": "/ReactNestedRouter/static/js/2.cb319127.chunk.js.map",
+    "static/js/3.75f086a3.chunk.js": "/ReactNestedRouter/static/js/3.75f086a3.chunk.js",
+    "static/js/3.75f086a3.chunk.js.map": "/ReactNestedRouter/static/js/3.75f086a3.chunk.js.map",
+    "index.html": "/ReactNestedRouter/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactNestedRouter/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cb319127.chunk.js.LICENSE.txt": "/ReactNestedRouter/static/js/2.cb319127.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e84f38f8.js",
+    "static/js/2.cb319127.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fa111797.chunk.js"
+  ]
+}
